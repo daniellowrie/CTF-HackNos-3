@@ -1,32 +1,32 @@
 # CTF-HackNos-3
 ======================================================================================
 
-Walkthrough for Vulnhub CTF HackNos-3 <br>
+Walkthrough for Vulnhub CTF HackNos-3
 Penetration Test Report
 
-Org:        PenTests-R-Us <br>
-Tester:     Daniel Lowrie <br>
-E-mail:     dlowrie@localhost <br>
-Phone:      212-555-1212 <br>
-Web:        https://github.com/daniellowrie <br>
+Org:        PenTests-R-Us
+Tester:     Daniel Lowrie
+E-mail:     dlowrie@localhost
+Phone:      212-555-1212
+Web:        https://github.com/daniellowrie
 
-Date:       Jan 10, 2020 <br>
-Client:     HackNos.com <br>
-Host:       hackNos-3 <br>
-IP:         192.168.0.50/24 <br>
+Date:       Jan 10, 2020
+Client:     HackNos.com
+Host:       hackNos-3
+IP:         192.168.0.50/24
 
 -------------------------------------------------------------------------------------------------------------------------------
 
 Table of Contents
 -------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------
-Executive Summary.......................1<br>
-Summary of Results......................2<br>
+Executive Summary.......................1
+Summary of Results......................2
 
-Engagement Narrative....................3<br>
+Engagement Narrative....................3
 
-Conclusion..............................X<br>
-Recommendations.........................X<br>
+Conclusion..............................X
+Recommendations.........................X
 
 -------------------------------------------------------------------------------------------------------------------------------
 
